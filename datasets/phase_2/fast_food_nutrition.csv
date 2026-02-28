@@ -1,0 +1,51 @@
+restaurant,item_name,calories,total_fat_g,saturated_fat_g,carbohydrates_g,sugars_g,protein_g,sodium_mg
+McDonald's,Big Mac,550,30,10,45,9,25,1010
+McDonald's,Quarter Pounder with Cheese,520,26,12,41,10,30,1100
+McDonald's,McChicken,400,17,3,40,5,14,560
+McDonald's,French Fries (Large),490,23,3,66,0,7,400
+McDonald's,Egg McMuffin,300,12,6,30,3,17,760
+Burger King,Whopper,660,40,12,49,11,28,980
+Burger King,Chicken Sandwich,660,40,8,49,8,29,1530
+Burger King,Double Whopper,900,58,19,49,11,48,1340
+Burger King,Onion Rings (Medium),320,16,3,40,4,4,460
+Burger King,French Fries (Medium),380,17,3,53,0,4,480
+Wendy's,Dave's Single,570,34,13,26,7,34,1110
+Wendy's,Spicy Chicken Sandwich,500,19,3.5,57,8,28,1130
+Wendy's,Baconator,950,62,24,34,8,57,1830
+Wendy's,Frosty (Small),340,8,5,57,47,9,150
+Wendy's,Jr. Cheeseburger,290,14,6,26,5,16,620
+Chick-fil-A,Original Chicken Sandwich,440,19,4,40,5,28,1350
+Chick-fil-A,Waffle Fries (Medium),380,19,3.5,48,0,4,160
+Chick-fil-A,Grilled Nuggets (8-count),140,3.5,1,2,1,25,440
+Chick-fil-A,Cobb Salad,590,32,9,28,6,43,1400
+Chick-fil-A,Spicy Chicken Sandwich,540,26,5,46,6,33,1620
+Subway,6-inch Turkey Breast,280,3.5,1,46,7,18,760
+Subway,Footlong BLT,520,20,7,60,9,26,1690
+Subway,6-inch Veggie Delight,230,2.5,0.5,44,7,9,520
+Subway,6-inch Spicy Italian,480,24,9,45,7,23,1520
+Subway,6-inch Rotisserie Chicken,350,7,2,44,7,28,790
+Taco Bell,Crunchy Taco,170,9,3.5,13,1,8,310
+Taco Bell,Bean Burrito,380,11,3,56,4,14,1000
+Taco Bell,Doritos Locos Taco,170,9,3.5,13,2,8,330
+Taco Bell,Cheesy Gordita Crunch,490,27,9,49,4,20,760
+Taco Bell,Mexican Pizza,540,31,8,46,3,20,1000
+Chipotle,Chicken Burrito,1005,38,13,105,6,55,2120
+Chipotle,Steak Bowl,580,19,6,56,4,42,1380
+Chipotle,Carnitas Tacos (3),525,22,8,43,3,32,1170
+Chipotle,Chicken Quesadilla,740,35,16,55,3,45,1640
+Chipotle,Chips and Guacamole,770,40,6,86,3,10,590
+KFC,Original Recipe Chicken,320,17,4,11,0,34,680
+KFC,Pot Pie,720,41,14,66,4,23,1640
+KFC,Mashed Potatoes with Gravy,140,5,1,20,0,3,530
+KFC,Cole Slaw,140,8,1.5,16,15,2,190
+KFC,Extra Crispy Chicken,390,24,5,12,0,34,850
+Panera Bread,Broccoli Cheddar Soup,360,21,13,30,6,14,1310
+Panera Bread,Turkey Avocado BLT,630,26,6,63,7,40,1410
+Panera Bread,Caesar Salad (Whole),330,19,4,23,3,16,700
+Panera Bread,Mac and Cheese,980,57,26,81,9,35,1790
+Panera Bread,Chipotle Chicken Avocado Melt,770,38,12,62,8,43,1750
+Pizza Hut,Pepperoni Pizza (1 slice),300,13,6,33,3,13,650
+Pizza Hut,Cheese Pizza (1 slice),260,10,5,32,3,12,540
+Pizza Hut,Meat Lover's Pizza (1 slice),380,20,8,33,3,17,870
+Pizza Hut,Breadsticks (1 piece),140,5,1.5,20,2,4,200
+Pizza Hut,Wings (2 pieces),180,11,3,7,0,14,580

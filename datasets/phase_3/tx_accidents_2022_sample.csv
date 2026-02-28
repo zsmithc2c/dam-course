@@ -1,0 +1,501 @@
+accident_id,date,time,city,county,severity,weather_condition,road_type,fatalities,injuries,latitude,longitude
+TX2022-001,2022-01-03,07:42,Houston,Harris,1,Clear,Interstate,0,0,29.78,-95.34
+TX2022-002,2022-01-03,08:15,Dallas,Dallas,2,Cloudy,Highway,0,1,32.81,-96.77
+TX2022-003,2022-01-04,16:30,Houston,Harris,1,Clear,Local Street,0,0,29.72,-95.41
+TX2022-004,2022-01-04,17:45,San Antonio,Bexar,1,Rain,Interstate,0,0,29.45,-98.52
+TX2022-005,2022-01-05,07:58,Austin,Travis,2,Fog,Highway,0,1,30.29,-97.71
+TX2022-006,2022-01-05,12:10,Houston,Harris,1,Clear,Local Street,0,0,29.81,-95.29
+TX2022-007,2022-01-06,08:33,Fort Worth,Tarrant,1,Clear,State Highway,0,0,32.78,-97.30
+TX2022-008,2022-01-06,17:22,Dallas,Dallas,1,Cloudy,Local Street,0,0,32.75,-96.83
+TX2022-009,2022-01-07,06:45,Houston,Harris,2,Fog,Interstate,0,2,29.69,-95.45
+TX2022-010,2022-01-07,16:05,El Paso,El Paso,1,Clear,Highway,0,0,31.78,-106.42
+TX2022-011,2022-01-08,18:30,Houston,Harris,1,,Local Street,0,0,29.74,-95.38
+TX2022-012,2022-01-09,07:15,San Antonio,Bexar,1,Clear,Interstate,0,0,29.40,-98.46
+TX2022-013,2022-01-09,14:20,Arlington,Tarrant,2,Rain,Local Street,0,1,32.72,-97.14
+TX2022-014,2022-01-10,08:47,Houston,Harris,1,Clear,Highway,0,0,29.83,-95.32
+TX2022-015,2022-01-10,17:10,Dallas,Dallas,3,Rain,Interstate,0,2,32.80,-96.75
+TX2022-016,2022-01-11,07:30,Austin,Travis,1,Clear,Local Street,0,0,30.25,-97.78
+TX2022-017,2022-01-11,16:55,Houston,Harris,1,Cloudy,State Highway,0,0,29.77,-95.43
+TX2022-018,2022-01-12,09:05,Corpus Christi,Nueces,1,Clear,Highway,0,0,27.82,-97.38
+TX2022-019,2022-01-12,18:15,Fort Worth,Tarrant,2,Clear,Local Street,0,1,32.73,-97.35
+TX2022-020,2022-01-13,07:52,Houston,Harris,1,,Interstate,0,0,29.86,-95.27
+TX2022-021,2022-01-13,15:40,San Antonio,Bexar,1,Clear,County Road,0,0,29.38,-98.55
+TX2022-022,2022-01-14,08:25,Dallas,Dallas,1,Clear,Highway,0,0,32.83,-96.79
+TX2022-023,2022-01-14,17:35,Houston,Harris,2,Rain,Local Street,0,1,29.71,-95.36
+TX2022-024,2022-01-15,10:15,Lubbock,Lubbock,1,Wind,State Highway,0,0,33.55,-101.88
+TX2022-025,2022-01-15,16:42,Houston,Harris,1,Clear,Interstate,0,0,29.79,-95.40
+TX2022-026,2022-01-16,07:18,Austin,Travis,1,Clear,Local Street,0,0,30.31,-97.72
+TX2022-027,2022-01-16,14:30,Garland,Dallas,1,Clear,Highway,0,0,32.93,-96.60
+TX2022-028,2022-01-17,08:50,Houston,Harris,3,Rain,Interstate,0,3,29.75,-95.33
+TX2022-029,2022-01-17,17:05,Dallas,Dallas,1,Cloudy,Local Street,0,0,32.77,-96.82
+TX2022-030,2022-01-18,06:55,San Antonio,Bexar,2,,Highway,0,1,29.44,-98.48
+TX2022-031,2022-01-18,16:20,Houston,Harris,1,Clear,State Highway,0,0,29.82,-95.35
+TX2022-032,2022-01-19,08:10,Fort Worth,Tarrant,1,Clear,Local Street,0,0,32.76,-97.31
+TX2022-033,2022-01-19,18:45,Laredo,Webb,1,Clear,Highway,0,0,27.53,-99.48
+TX2022-034,2022-01-20,07:40,Houston,Harris,1,Cloudy,Interstate,0,0,29.68,-95.42
+TX2022-035,2022-01-20,13:25,Irving,Dallas,2,Clear,Local Street,0,1,32.83,-96.92
+TX2022-036,2022-01-21,17:30,Dallas,Dallas,1,Clear,Highway,0,0,32.79,-96.78
+TX2022-037,2022-01-21,08:05,Houston,Harris,1,Clear,County Road,0,0,29.73,-95.47
+TX2022-038,2022-01-22,16:15,San Antonio,Bexar,1,Rain,Local Street,0,0,29.41,-98.50
+TX2022-039,2022-01-22,07:28,Austin,Travis,3,Fog,Interstate,0,2,30.28,-97.75
+TX2022-040,2022-01-23,19:10,Houston,Harris,1,,Highway,0,0,29.80,-95.31
+TX2022-041,2022-01-24,08:35,McKinney,Collin,1,Clear,State Highway,0,0,33.22,-96.60
+TX2022-042,2022-01-24,17:55,Houston,Harris,2,Clear,Local Street,0,1,29.76,-95.39
+TX2022-043,2022-01-25,07:12,Dallas,Dallas,1,Clear,Interstate,0,0,32.82,-96.76
+TX2022-044,2022-01-25,15:50,Fort Worth,Tarrant,1,Cloudy,Highway,0,0,32.74,-97.34
+TX2022-045,2022-01-26,16:40,Houston,Harris,1,Clear,Local Street,0,0,29.70,-95.44
+TX2022-046,2022-01-27,08:20,San Antonio,Bexar,2,Rain,Interstate,0,2,29.43,-98.47
+TX2022-047,2022-01-27,11:30,Frisco,Collin,1,Clear,Highway,0,0,33.17,-96.80
+TX2022-048,2022-01-28,07:48,Houston,Harris,1,Clear,State Highway,0,0,29.84,-95.28
+TX2022-049,2022-01-28,17:15,Dallas,Dallas,1,,Local Street,0,0,32.76,-96.81
+TX2022-050,2022-01-29,18:05,Houston,Harris,4,Rain,Interstate,1,3,29.67,-95.46
+TX2022-051,2022-01-30,08:00,Austin,Travis,1,Clear,Highway,0,0,30.26,-97.73
+TX2022-052,2022-01-31,16:50,Houston,Harris,1,Cloudy,Local Street,0,0,29.78,-95.37
+TX2022-053,2022-02-01,07:35,Dallas,Dallas,2,Clear,Interstate,0,1,32.84,-96.74
+TX2022-054,2022-02-01,17:28,Houston,Harris,1,Clear,Highway,0,0,29.72,-95.40
+TX2022-055,2022-02-02,08:42,San Antonio,Bexar,1,Clear,Local Street,0,0,29.46,-98.51
+TX2022-056,2022-02-02,14:15,Arlington,Tarrant,1,Cloudy,State Highway,0,0,32.71,-97.12
+TX2022-057,2022-02-03,07:55,Houston,Harris,1,,County Road,0,0,29.85,-95.30
+TX2022-058,2022-02-03,16:10,Fort Worth,Tarrant,3,Snow,Interstate,0,2,32.77,-97.32
+TX2022-059,2022-02-04,08:18,Dallas,Dallas,1,Snow,Highway,0,0,32.78,-96.84
+TX2022-060,2022-02-04,17:42,Houston,Harris,2,Snow,Local Street,0,1,29.74,-95.43
+TX2022-061,2022-02-05,10:30,El Paso,El Paso,1,Clear,Interstate,0,0,31.74,-106.46
+TX2022-062,2022-02-05,16:25,Austin,Travis,1,Clear,Local Street,0,0,30.30,-97.70
+TX2022-063,2022-02-06,07:22,Houston,Harris,1,Cloudy,Highway,0,0,29.81,-95.33
+TX2022-064,2022-02-07,18:50,San Antonio,Bexar,1,Clear,State Highway,0,0,29.39,-98.53
+TX2022-065,2022-02-07,08:30,Dallas,Dallas,2,Fog,Interstate,0,1,32.80,-96.77
+TX2022-066,2022-02-08,07:10,Houston,Harris,1,Clear,Local Street,0,0,29.77,-95.36
+TX2022-067,2022-02-08,16:35,Corpus Christi,Nueces,1,Clear,Highway,0,0,27.78,-97.42
+TX2022-068,2022-02-09,17:20,Houston,Harris,1,,Interstate,0,0,29.69,-95.48
+TX2022-069,2022-02-09,08:55,Fort Worth,Tarrant,1,Clear,Local Street,0,0,32.79,-97.29
+TX2022-070,2022-02-10,15:45,Garland,Dallas,2,Clear,Highway,0,1,32.90,-96.65
+TX2022-071,2022-02-10,07:38,Houston,Harris,1,Clear,State Highway,0,0,29.83,-95.26
+TX2022-072,2022-02-11,16:58,Dallas,Dallas,1,Cloudy,Local Street,0,0,32.81,-96.80
+TX2022-073,2022-02-12,09:20,San Antonio,Bexar,3,Rain,Interstate,0,3,29.42,-98.49
+TX2022-074,2022-02-12,17:05,Houston,Harris,1,Rain,Highway,0,0,29.75,-95.41
+TX2022-075,2022-02-13,08:15,Austin,Travis,1,Clear,Local Street,0,0,30.24,-97.76
+TX2022-076,2022-02-14,16:40,Houston,Harris,2,Clear,Interstate,0,1,29.71,-95.35
+TX2022-077,2022-02-14,11:25,Laredo,Webb,1,Clear,State Highway,0,0,27.49,-99.53
+TX2022-078,2022-02-15,07:50,Dallas,Dallas,1,Clear,Highway,0,0,32.85,-96.73
+TX2022-079,2022-02-15,18:10,Houston,Harris,1,,Local Street,0,0,29.80,-95.38
+TX2022-080,2022-02-16,08:28,San Antonio,Bexar,1,Clear,County Road,0,0,29.47,-98.54
+TX2022-081,2022-02-17,17:32,Fort Worth,Tarrant,1,Cloudy,Interstate,0,0,32.72,-97.36
+TX2022-082,2022-02-17,07:05,Houston,Harris,2,Fog,Highway,0,2,29.68,-95.44
+TX2022-083,2022-02-18,16:18,Arlington,Tarrant,1,Clear,Local Street,0,0,32.75,-97.10
+TX2022-084,2022-02-19,14:40,Lubbock,Lubbock,1,Wind,State Highway,0,0,33.60,-101.82
+TX2022-085,2022-02-20,08:45,Houston,Harris,1,Clear,Interstate,0,0,29.87,-95.29
+TX2022-086,2022-02-20,17:50,Dallas,Dallas,3,Rain,Local Street,0,2,32.79,-96.85
+TX2022-087,2022-02-21,07:25,Austin,Travis,1,Clear,Highway,0,0,30.32,-97.69
+TX2022-088,2022-02-22,16:05,Houston,Harris,1,Clear,Local Street,0,0,29.73,-95.42
+TX2022-089,2022-02-22,09:35,El Paso,El Paso,2,Clear,Interstate,0,1,31.80,-106.40
+TX2022-090,2022-02-23,18:25,San Antonio,Bexar,1,,Highway,0,0,29.44,-98.47
+TX2022-091,2022-02-24,07:58,Houston,Harris,1,Clear,State Highway,0,0,29.76,-95.34
+TX2022-092,2022-02-24,16:48,Dallas,Dallas,1,Clear,Local Street,0,0,32.82,-96.78
+TX2022-093,2022-02-25,08:12,Fort Worth,Tarrant,2,Cloudy,Highway,0,1,32.76,-97.33
+TX2022-094,2022-02-25,17:38,Houston,Harris,1,Clear,Interstate,0,0,29.70,-95.39
+TX2022-095,2022-02-26,13:50,Irving,Dallas,1,Clear,Local Street,0,0,32.79,-96.97
+TX2022-096,2022-02-27,07:42,Houston,Harris,4,Fog,Interstate,1,4,29.66,-95.47
+TX2022-097,2022-02-28,16:30,San Antonio,Bexar,1,Clear,State Highway,0,0,29.40,-98.52
+TX2022-098,2022-03-01,08:05,Dallas,Dallas,1,Clear,Highway,0,0,32.77,-96.82
+TX2022-099,2022-03-01,17:15,Houston,Harris,2,Rain,Local Street,0,1,29.82,-95.31
+TX2022-100,2022-03-02,07:30,Austin,Travis,1,Clear,Interstate,0,0,30.27,-97.74
+TX2022-101,2022-03-02,16:55,Houston,Harris,1,Cloudy,Highway,0,0,29.79,-95.36
+TX2022-102,2022-03-03,18:20,San Antonio,Bexar,1,Clear,Local Street,0,0,29.45,-98.50
+TX2022-103,2022-03-03,08:38,Fort Worth,Tarrant,1,Clear,County Road,0,0,32.80,-97.28
+TX2022-104,2022-03-04,07:18,Houston,Harris,3,Rain,Interstate,0,3,29.74,-95.45
+TX2022-105,2022-03-04,17:42,Dallas,Dallas,1,,Local Street,0,0,32.84,-96.75
+TX2022-106,2022-03-05,09:10,Corpus Christi,Nueces,1,Clear,Highway,0,0,27.81,-97.39
+TX2022-107,2022-03-05,16:25,Houston,Harris,1,Clear,State Highway,0,0,29.85,-95.28
+TX2022-108,2022-03-06,08:52,San Antonio,Bexar,2,Cloudy,Interstate,0,1,29.43,-98.48
+TX2022-109,2022-03-07,07:45,Arlington,Tarrant,1,Clear,Local Street,0,0,32.73,-97.15
+TX2022-110,2022-03-07,17:08,Houston,Harris,1,Clear,Highway,0,0,29.78,-95.40
+TX2022-111,2022-03-08,16:35,Dallas,Dallas,1,Clear,Interstate,0,0,32.80,-96.79
+TX2022-112,2022-03-08,08:22,Austin,Travis,1,Rain,Local Street,0,0,30.29,-97.77
+TX2022-113,2022-03-09,15:55,Houston,Harris,2,,State Highway,0,1,29.71,-95.33
+TX2022-114,2022-03-09,07:08,Garland,Dallas,1,Clear,Highway,0,0,32.92,-96.62
+TX2022-115,2022-03-10,17:28,Fort Worth,Tarrant,1,Clear,Local Street,0,0,32.74,-97.37
+TX2022-116,2022-03-10,08:40,Houston,Harris,1,Cloudy,Interstate,0,0,29.67,-95.43
+TX2022-117,2022-03-11,16:12,San Antonio,Bexar,3,Rain,Highway,0,2,29.41,-98.53
+TX2022-118,2022-03-12,10:45,Laredo,Webb,1,Clear,State Highway,0,0,27.52,-99.50
+TX2022-119,2022-03-12,18:35,Houston,Harris,1,Clear,Local Street,0,0,29.84,-95.27
+TX2022-120,2022-03-13,07:55,Dallas,Dallas,2,Clear,Interstate,0,1,32.83,-96.76
+TX2022-121,2022-03-13,16:48,Houston,Harris,1,Clear,Highway,0,0,29.77,-95.38
+TX2022-122,2022-03-14,08:15,Austin,Travis,1,Clear,Local Street,0,0,30.25,-97.72
+TX2022-123,2022-03-14,17:52,El Paso,El Paso,1,Wind,Interstate,0,0,31.77,-106.43
+TX2022-124,2022-03-15,07:32,Houston,Harris,1,Clear,County Road,0,0,29.86,-95.30
+TX2022-125,2022-03-15,16:20,San Antonio,Bexar,1,,Local Street,0,0,29.46,-98.46
+TX2022-126,2022-03-16,09:00,McKinney,Collin,2,Clear,Highway,0,1,33.19,-96.64
+TX2022-127,2022-03-16,17:18,Houston,Harris,1,Rain,State Highway,0,0,29.73,-95.41
+TX2022-128,2022-03-17,08:28,Dallas,Dallas,1,Cloudy,Local Street,0,0,32.78,-96.83
+TX2022-129,2022-03-17,16:42,Fort Worth,Tarrant,1,Clear,Interstate,0,0,32.77,-97.31
+TX2022-130,2022-03-18,07:15,Houston,Harris,2,Fog,Highway,0,2,29.80,-95.35
+TX2022-131,2022-03-19,18:55,San Antonio,Bexar,1,Clear,Local Street,0,0,29.39,-98.55
+TX2022-132,2022-03-19,14:30,Frisco,Collin,1,Clear,State Highway,0,0,33.14,-96.84
+TX2022-133,2022-03-20,08:48,Houston,Harris,1,Clear,Interstate,0,0,29.69,-95.46
+TX2022-134,2022-03-20,17:35,Dallas,Dallas,1,Clear,Highway,0,0,32.85,-96.72
+TX2022-135,2022-03-21,07:22,Arlington,Tarrant,3,Rain,Local Street,0,2,32.70,-97.13
+TX2022-136,2022-03-21,16:08,Houston,Harris,1,Rain,State Highway,0,0,29.75,-95.44
+TX2022-137,2022-03-22,08:35,Austin,Travis,1,Clear,Interstate,0,0,30.33,-97.68
+TX2022-138,2022-03-22,17:50,Houston,Harris,1,,Local Street,0,0,29.82,-95.32
+TX2022-139,2022-03-23,07:48,San Antonio,Bexar,2,Clear,Highway,0,1,29.48,-98.45
+TX2022-140,2022-03-24,16:28,Dallas,Dallas,1,Cloudy,Interstate,0,0,32.76,-96.80
+TX2022-141,2022-03-24,12:15,Corpus Christi,Nueces,1,Clear,County Road,0,0,27.83,-97.37
+TX2022-142,2022-03-25,07:38,Houston,Harris,1,Clear,Highway,0,0,29.88,-95.25
+TX2022-143,2022-03-25,18:10,Fort Worth,Tarrant,1,Clear,Local Street,0,0,32.75,-97.35
+TX2022-144,2022-03-26,08:02,Houston,Harris,4,Fog,Interstate,1,4,29.66,-95.49
+TX2022-145,2022-03-27,17:25,Dallas,Dallas,1,Clear,State Highway,0,0,32.81,-96.74
+TX2022-146,2022-03-27,16:15,Houston,Harris,1,Clear,Local Street,0,0,29.79,-95.37
+TX2022-147,2022-03-28,07:55,San Antonio,Bexar,1,Clear,Interstate,0,0,29.42,-98.51
+TX2022-148,2022-03-28,13:40,El Paso,El Paso,1,Clear,Highway,0,0,31.73,-106.47
+TX2022-149,2022-03-29,17:38,Houston,Harris,2,Rain,Local Street,0,1,29.72,-95.42
+TX2022-150,2022-03-30,08:18,Austin,Travis,1,Clear,State Highway,0,0,30.28,-97.76
+TX2022-151,2022-03-31,16:52,Houston,Harris,1,,Highway,0,0,29.81,-95.29
+TX2022-152,2022-04-01,07:28,Dallas,Dallas,1,Clear,Interstate,0,0,32.79,-96.81
+TX2022-153,2022-04-01,17:12,Houston,Harris,1,Clear,Local Street,0,0,29.74,-95.39
+TX2022-154,2022-04-02,08:45,San Antonio,Bexar,3,Rain,Highway,0,3,29.44,-98.48
+TX2022-155,2022-04-02,16:30,Fort Worth,Tarrant,1,Cloudy,Local Street,0,0,32.78,-97.30
+TX2022-156,2022-04-03,07:08,Houston,Harris,2,Clear,Interstate,0,1,29.85,-95.31
+TX2022-157,2022-04-03,18:25,Garland,Dallas,1,Clear,State Highway,0,0,32.94,-96.61
+TX2022-158,2022-04-04,08:32,Austin,Travis,1,Clear,Local Street,0,0,30.26,-97.73
+TX2022-159,2022-04-04,17:48,Houston,Harris,1,Rain,Highway,0,0,29.70,-95.45
+TX2022-160,2022-04-05,07:42,Dallas,Dallas,1,Clear,Local Street,0,0,32.82,-96.77
+TX2022-161,2022-04-05,16:05,San Antonio,Bexar,1,Clear,Interstate,0,0,29.40,-98.54
+TX2022-162,2022-04-06,09:15,Lubbock,Lubbock,2,Wind,Highway,0,1,33.57,-101.86
+TX2022-163,2022-04-06,17:30,Houston,Harris,1,,State Highway,0,0,29.77,-95.36
+TX2022-164,2022-04-07,08:05,Fort Worth,Tarrant,1,Clear,County Road,0,0,32.73,-97.38
+TX2022-165,2022-04-07,16:42,Houston,Harris,1,Cloudy,Local Street,0,0,29.83,-95.34
+TX2022-166,2022-04-08,07:52,Arlington,Tarrant,1,Clear,Highway,0,0,32.71,-97.11
+TX2022-167,2022-04-08,18:50,Dallas,Dallas,2,Clear,Interstate,0,1,32.80,-96.78
+TX2022-168,2022-04-09,15:25,Houston,Harris,1,Clear,Local Street,0,0,29.68,-95.48
+TX2022-169,2022-04-10,08:38,San Antonio,Bexar,1,Clear,Highway,0,0,29.47,-98.49
+TX2022-170,2022-04-10,17:15,Houston,Harris,3,Rain,Interstate,0,2,29.76,-95.40
+TX2022-171,2022-04-11,07:18,Dallas,Dallas,1,Clear,State Highway,0,0,32.77,-96.84
+TX2022-172,2022-04-11,16:55,Austin,Travis,1,Clear,Local Street,0,0,30.30,-97.71
+TX2022-173,2022-04-12,08:22,Houston,Harris,1,Clear,Highway,0,0,29.89,-95.24
+TX2022-174,2022-04-12,17:42,Laredo,Webb,2,,Interstate,0,1,27.50,-99.52
+TX2022-175,2022-04-13,07:35,Fort Worth,Tarrant,1,Clear,Local Street,0,0,32.76,-97.32
+TX2022-176,2022-04-13,16:18,Houston,Harris,1,Rain,State Highway,0,0,29.71,-95.43
+TX2022-177,2022-04-14,09:45,Corpus Christi,Nueces,1,Clear,County Road,0,0,27.79,-97.41
+TX2022-178,2022-04-14,17:58,San Antonio,Bexar,1,Cloudy,Local Street,0,0,29.43,-98.50
+TX2022-179,2022-04-15,08:10,Houston,Harris,2,Clear,Interstate,0,1,29.78,-95.33
+TX2022-180,2022-04-15,16:35,Dallas,Dallas,1,Clear,Highway,0,0,32.84,-96.73
+TX2022-181,2022-04-16,07:48,Houston,Harris,1,Clear,Local Street,0,0,29.64,-95.50
+TX2022-182,2022-04-17,18:15,El Paso,El Paso,1,Clear,Interstate,0,0,31.79,-106.41
+TX2022-183,2022-04-17,14:20,Irving,Dallas,1,Clear,Local Street,0,0,32.82,-96.93
+TX2022-184,2022-04-18,07:25,Austin,Travis,1,Clear,Highway,0,0,30.24,-97.79
+TX2022-185,2022-04-18,17:05,Houston,Harris,1,,Local Street,0,0,29.80,-95.38
+TX2022-186,2022-04-19,08:55,San Antonio,Bexar,1,Clear,State Highway,0,0,29.41,-98.52
+TX2022-187,2022-04-19,16:48,Dallas,Dallas,3,Cloudy,Interstate,0,2,32.78,-96.82
+TX2022-188,2022-04-20,07:12,Houston,Harris,1,Clear,Highway,0,0,29.84,-95.27
+TX2022-189,2022-04-20,17:32,Fort Worth,Tarrant,2,Rain,Local Street,0,1,32.74,-97.34
+TX2022-190,2022-04-21,08:42,Houston,Harris,1,Cloudy,Interstate,0,0,29.73,-95.44
+TX2022-191,2022-04-22,16:10,San Antonio,Bexar,1,Clear,County Road,0,0,29.38,-98.56
+TX2022-192,2022-04-22,11:30,Amarillo,Potter,1,Wind,State Highway,0,0,35.20,-101.85
+TX2022-193,2022-04-23,07:55,Dallas,Dallas,1,Clear,Local Street,0,0,32.83,-96.76
+TX2022-194,2022-04-23,17:48,Houston,Harris,2,Clear,Highway,0,1,29.67,-95.46
+TX2022-195,2022-04-24,08:18,Austin,Travis,1,Clear,Interstate,0,0,30.31,-97.70
+TX2022-196,2022-04-25,16:25,Houston,Harris,1,Rain,Local Street,0,0,29.82,-95.30
+TX2022-197,2022-04-25,18:40,Arlington,Tarrant,1,Clear,Highway,0,0,32.72,-97.14
+TX2022-198,2022-04-26,07:38,Houston,Harris,1,,State Highway,0,0,29.75,-95.41
+TX2022-199,2022-04-27,17:15,Dallas,Dallas,1,Clear,Interstate,0,0,32.76,-96.83
+TX2022-200,2022-04-28,08:05,San Antonio,Bexar,4,Rain,Highway,1,3,29.45,-98.47
+TX2022-201,2022-04-29,16:50,Houston,Harris,1,Clear,Local Street,0,0,29.79,-95.35
+TX2022-202,2022-04-30,07:30,Fort Worth,Tarrant,1,Cloudy,Interstate,0,0,32.79,-97.29
+TX2022-203,2022-05-01,08:25,Houston,Harris,1,Clear,Highway,0,0,29.86,-95.26
+TX2022-204,2022-05-01,17:35,Dallas,Dallas,2,Clear,Local Street,0,1,32.81,-96.79
+TX2022-205,2022-05-02,07:15,Austin,Travis,1,Clear,State Highway,0,0,30.29,-97.72
+TX2022-206,2022-05-02,16:42,Houston,Harris,1,Clear,Interstate,0,0,29.72,-95.42
+TX2022-207,2022-05-03,18:20,San Antonio,Bexar,1,,Local Street,0,0,29.46,-98.51
+TX2022-208,2022-05-03,08:48,Garland,Dallas,1,Clear,Highway,0,0,32.91,-96.64
+TX2022-209,2022-05-04,07:42,Houston,Harris,2,Rain,Interstate,0,2,29.70,-95.39
+TX2022-210,2022-05-04,17:08,Fort Worth,Tarrant,1,Clear,Local Street,0,0,32.75,-97.36
+TX2022-211,2022-05-05,16:15,Dallas,Dallas,1,Cloudy,Highway,0,0,32.85,-96.71
+TX2022-212,2022-05-05,08:32,Houston,Harris,1,Clear,State Highway,0,0,29.81,-95.32
+TX2022-213,2022-05-06,07:58,San Antonio,Bexar,1,Clear,County Road,0,0,29.40,-98.55
+TX2022-214,2022-05-06,17:52,Houston,Harris,3,Rain,Local Street,0,3,29.68,-95.47
+TX2022-215,2022-05-07,14:10,Corpus Christi,Nueces,1,Clear,Interstate,0,0,27.82,-97.38
+TX2022-216,2022-05-08,08:15,Austin,Travis,1,Clear,Highway,0,0,30.25,-97.75
+TX2022-217,2022-05-08,16:38,Houston,Harris,1,Clear,Local Street,0,0,29.77,-95.37
+TX2022-218,2022-05-09,07:25,Dallas,Dallas,2,Fog,Interstate,0,1,32.79,-96.80
+TX2022-219,2022-05-09,17:45,El Paso,El Paso,1,Clear,State Highway,0,0,31.75,-106.45
+TX2022-220,2022-05-10,08:58,Houston,Harris,1,,Highway,0,0,29.83,-95.29
+TX2022-221,2022-05-10,16:05,Fort Worth,Tarrant,1,Clear,Local Street,0,0,32.77,-97.31
+TX2022-222,2022-05-11,07:35,San Antonio,Bexar,1,Clear,Interstate,0,0,29.44,-98.48
+TX2022-223,2022-05-11,18:30,Houston,Harris,1,Rain,State Highway,0,0,29.74,-95.43
+TX2022-224,2022-05-12,08:08,Dallas,Dallas,1,Clear,Highway,0,0,32.82,-96.77
+TX2022-225,2022-05-12,17:22,Houston,Harris,2,Cloudy,Local Street,0,1,29.65,-95.49
+TX2022-226,2022-05-13,16:55,Arlington,Tarrant,1,Clear,Interstate,0,0,32.73,-97.12
+TX2022-227,2022-05-13,07:48,Austin,Travis,1,Clear,Local Street,0,0,30.33,-97.67
+TX2022-228,2022-05-14,09:20,Lubbock,Lubbock,1,Clear,County Road,0,0,33.56,-101.89
+TX2022-229,2022-05-14,17:10,Houston,Harris,1,Clear,Highway,0,0,29.88,-95.25
+TX2022-230,2022-05-15,08:35,San Antonio,Bexar,3,Rain,Interstate,0,2,29.42,-98.53
+TX2022-231,2022-05-16,07:18,Houston,Harris,1,Clear,State Highway,0,0,29.76,-95.36
+TX2022-232,2022-05-16,16:28,Dallas,Dallas,1,,Local Street,0,0,32.80,-96.84
+TX2022-233,2022-05-17,18:45,Houston,Harris,1,Clear,Interstate,0,0,29.69,-95.44
+TX2022-234,2022-05-17,08:52,Fort Worth,Tarrant,2,Clear,Highway,0,1,32.76,-97.33
+TX2022-235,2022-05-18,07:05,McKinney,Collin,1,Clear,Local Street,0,0,33.21,-96.61
+TX2022-236,2022-05-18,17:35,Houston,Harris,1,Cloudy,County Road,0,0,29.80,-95.34
+TX2022-237,2022-05-19,16:18,San Antonio,Bexar,1,Clear,State Highway,0,0,29.47,-98.46
+TX2022-238,2022-05-20,08:22,Houston,Harris,4,Rain,Interstate,1,5,29.73,-95.40
+TX2022-239,2022-05-20,07:42,Dallas,Dallas,1,Clear,Highway,0,0,32.77,-96.81
+TX2022-240,2022-05-21,17:55,Austin,Travis,1,Clear,Local Street,0,0,30.27,-97.74
+TX2022-241,2022-05-22,15:30,Laredo,Webb,1,Clear,Interstate,0,0,27.54,-99.49
+TX2022-242,2022-05-22,08:10,Houston,Harris,1,Clear,Highway,0,0,29.84,-95.28
+TX2022-243,2022-05-23,16:42,Fort Worth,Tarrant,1,Rain,Local Street,0,0,32.74,-97.35
+TX2022-244,2022-05-23,07:55,San Antonio,Bexar,2,,Interstate,0,1,29.43,-98.50
+TX2022-245,2022-05-24,17:18,Houston,Harris,1,Clear,State Highway,0,0,29.71,-95.41
+TX2022-246,2022-05-25,08:38,Dallas,Dallas,1,Clear,Local Street,0,0,32.84,-96.74
+TX2022-247,2022-05-25,16:10,Houston,Harris,1,Clear,Highway,0,0,29.66,-95.48
+TX2022-248,2022-05-26,07:28,Arlington,Tarrant,1,Cloudy,Interstate,0,0,32.72,-97.10
+TX2022-249,2022-05-27,18:05,Houston,Harris,2,Rain,Local Street,0,1,29.78,-95.33
+TX2022-250,2022-05-28,09:40,El Paso,El Paso,1,Clear,State Highway,0,0,31.74,-106.46
+TX2022-251,2022-06-01,07:35,Houston,Harris,1,Clear,Interstate,0,0,29.85,-95.27
+TX2022-252,2022-06-01,17:25,Dallas,Dallas,1,Clear,Highway,0,0,32.81,-96.76
+TX2022-253,2022-06-02,08:15,San Antonio,Bexar,1,Clear,Local Street,0,0,29.41,-98.54
+TX2022-254,2022-06-02,16:48,Houston,Harris,3,Cloudy,Interstate,0,3,29.72,-95.42
+TX2022-255,2022-06-03,07:50,Austin,Travis,1,Clear,Highway,0,0,30.26,-97.73
+TX2022-256,2022-06-03,18:15,Fort Worth,Tarrant,1,,Local Street,0,0,32.78,-97.30
+TX2022-257,2022-06-04,08:28,Houston,Harris,1,Clear,State Highway,0,0,29.80,-95.36
+TX2022-258,2022-06-04,16:35,Dallas,Dallas,2,Rain,Interstate,0,2,32.79,-96.82
+TX2022-259,2022-06-05,14:50,Garland,Dallas,1,Clear,Highway,0,0,32.93,-96.62
+TX2022-260,2022-06-06,07:12,Houston,Harris,1,Clear,Local Street,0,0,29.74,-95.38
+TX2022-261,2022-06-06,17:42,San Antonio,Bexar,1,Clear,County Road,0,0,29.39,-98.55
+TX2022-262,2022-06-07,08:55,Houston,Harris,2,Clear,Interstate,0,1,29.87,-95.26
+TX2022-263,2022-06-07,16:12,Fort Worth,Tarrant,1,Clear,Highway,0,0,32.75,-97.37
+TX2022-264,2022-06-08,07:38,Dallas,Dallas,1,Cloudy,Local Street,0,0,32.83,-96.75
+TX2022-265,2022-06-08,17:55,Houston,Harris,1,,State Highway,0,0,29.69,-95.45
+TX2022-266,2022-06-09,08:42,Austin,Travis,1,Clear,Interstate,0,0,30.32,-97.69
+TX2022-267,2022-06-09,16:28,Houston,Harris,1,Clear,Local Street,0,0,29.76,-95.40
+TX2022-268,2022-06-10,07:22,San Antonio,Bexar,1,Clear,Highway,0,0,29.46,-98.47
+TX2022-269,2022-06-10,18:35,Corpus Christi,Nueces,2,Rain,Interstate,0,1,27.78,-97.43
+TX2022-270,2022-06-11,09:05,Frisco,Collin,1,Clear,State Highway,0,0,33.16,-96.81
+TX2022-271,2022-06-12,16:50,Houston,Harris,1,Clear,Local Street,0,0,29.82,-95.30
+TX2022-272,2022-06-12,07:48,Dallas,Dallas,3,Fog,Interstate,0,2,32.80,-96.80
+TX2022-273,2022-06-13,17:18,Fort Worth,Tarrant,1,Clear,Highway,0,0,32.77,-97.32
+TX2022-274,2022-06-13,08:30,Houston,Harris,1,Clear,County Road,0,0,29.67,-95.47
+TX2022-275,2022-06-14,07:15,San Antonio,Bexar,2,Clear,Local Street,0,1,29.45,-98.49
+TX2022-276,2022-06-14,16:42,Houston,Harris,1,Rain,Interstate,0,0,29.78,-95.34
+TX2022-277,2022-06-15,08:08,Arlington,Tarrant,1,Clear,State Highway,0,0,32.74,-97.13
+TX2022-278,2022-06-15,17:30,Dallas,Dallas,1,,Highway,0,0,32.85,-96.73
+TX2022-279,2022-06-16,07:55,Houston,Harris,1,Clear,Local Street,0,0,29.83,-95.32
+TX2022-280,2022-06-16,16:15,Austin,Travis,1,Clear,Interstate,0,0,30.28,-97.76
+TX2022-281,2022-06-17,18:42,Houston,Harris,2,Cloudy,Highway,0,1,29.71,-95.39
+TX2022-282,2022-06-18,08:18,El Paso,El Paso,1,Clear,Local Street,0,0,31.78,-106.42
+TX2022-283,2022-06-18,13:25,Lubbock,Lubbock,1,Clear,State Highway,0,0,33.59,-101.83
+TX2022-284,2022-06-19,07:32,Houston,Harris,1,Clear,Interstate,0,0,29.75,-95.43
+TX2022-285,2022-06-19,17:08,San Antonio,Bexar,1,Clear,Local Street,0,0,29.42,-98.52
+TX2022-286,2022-06-20,16:55,Dallas,Dallas,1,Clear,Highway,0,0,32.78,-96.81
+TX2022-287,2022-06-20,08:45,Houston,Harris,4,Rain,Interstate,1,4,29.64,-95.50
+TX2022-288,2022-06-21,07:08,Fort Worth,Tarrant,1,Clear,Local Street,0,0,32.76,-97.34
+TX2022-289,2022-06-22,17:38,Houston,Harris,1,,State Highway,0,0,29.80,-95.37
+TX2022-290,2022-06-22,08:22,San Antonio,Bexar,1,Clear,County Road,0,0,29.48,-98.44
+TX2022-291,2022-06-23,16:05,Houston,Harris,1,Clear,Highway,0,0,29.86,-95.25
+TX2022-292,2022-06-24,07:42,Dallas,Dallas,2,Rain,Interstate,0,1,32.82,-96.78
+TX2022-293,2022-06-24,18:10,Austin,Travis,1,Clear,Local Street,0,0,30.24,-97.78
+TX2022-294,2022-06-25,08:35,Houston,Harris,1,Cloudy,State Highway,0,0,29.73,-95.44
+TX2022-295,2022-06-26,17:22,Irving,Dallas,1,Clear,Highway,0,0,32.80,-96.94
+TX2022-296,2022-06-27,07:58,Houston,Harris,1,Clear,Local Street,0,0,29.68,-95.46
+TX2022-297,2022-06-28,16:38,San Antonio,Bexar,3,Clear,Interstate,0,2,29.43,-98.51
+TX2022-298,2022-06-29,08:12,Houston,Harris,1,Clear,Highway,0,0,29.81,-95.31
+TX2022-299,2022-06-30,17:45,Dallas,Dallas,1,,Local Street,0,0,32.76,-96.83
+TX2022-300,2022-06-30,07:25,Fort Worth,Tarrant,2,Clear,Interstate,0,1,32.73,-97.36
+TX2022-301,2022-07-01,08:05,Houston,Harris,1,Clear,State Highway,0,0,29.77,-95.38
+TX2022-302,2022-07-01,16:48,San Antonio,Bexar,1,Clear,Local Street,0,0,29.40,-98.53
+TX2022-303,2022-07-02,17:32,Houston,Harris,1,Clear,Highway,0,0,29.84,-95.28
+TX2022-304,2022-07-02,07:38,Dallas,Dallas,1,Rain,Interstate,0,0,32.81,-96.77
+TX2022-305,2022-07-03,16:18,Austin,Travis,2,Clear,Local Street,0,1,30.30,-97.71
+TX2022-306,2022-07-03,08:48,Houston,Harris,1,Clear,County Road,0,0,29.70,-95.42
+TX2022-307,2022-07-04,18:25,Arlington,Tarrant,1,Clear,State Highway,0,0,32.71,-97.15
+TX2022-308,2022-07-04,14:15,Corpus Christi,Nueces,1,Clear,Highway,0,0,27.81,-97.39
+TX2022-309,2022-07-05,07:52,Houston,Harris,1,,Interstate,0,0,29.66,-95.49
+TX2022-310,2022-07-05,17:10,Fort Worth,Tarrant,1,Cloudy,Local Street,0,0,32.79,-97.29
+TX2022-311,2022-07-06,08:25,San Antonio,Bexar,1,Clear,Highway,0,0,29.44,-98.47
+TX2022-312,2022-07-06,16:42,Houston,Harris,2,Clear,Interstate,0,2,29.78,-95.35
+TX2022-313,2022-07-07,07:15,Dallas,Dallas,1,Clear,Local Street,0,0,32.84,-96.74
+TX2022-314,2022-07-07,17:55,Houston,Harris,1,Clear,State Highway,0,0,29.72,-95.41
+TX2022-315,2022-07-08,08:38,Austin,Travis,1,Clear,Highway,0,0,30.27,-97.73
+TX2022-316,2022-07-08,16:28,Houston,Harris,3,Rain,Interstate,0,3,29.85,-95.27
+TX2022-317,2022-07-09,07:45,San Antonio,Bexar,1,Clear,Local Street,0,0,29.47,-98.50
+TX2022-318,2022-07-10,18:35,Garland,Dallas,1,Clear,Highway,0,0,32.92,-96.63
+TX2022-319,2022-07-10,09:10,El Paso,El Paso,1,Clear,Interstate,0,0,31.77,-106.43
+TX2022-320,2022-07-11,07:28,Houston,Harris,1,Clear,Local Street,0,0,29.79,-95.36
+TX2022-321,2022-07-11,17:18,Dallas,Dallas,1,,State Highway,0,0,32.78,-96.82
+TX2022-322,2022-07-12,16:55,Fort Worth,Tarrant,1,Clear,Interstate,0,0,32.74,-97.31
+TX2022-323,2022-07-12,08:15,Houston,Harris,2,Cloudy,Highway,0,1,29.67,-95.47
+TX2022-324,2022-07-13,07:35,San Antonio,Bexar,1,Clear,County Road,0,0,29.41,-98.55
+TX2022-325,2022-07-13,17:42,Houston,Harris,1,Clear,Local Street,0,0,29.82,-95.30
+TX2022-326,2022-07-14,08:52,Dallas,Dallas,2,Clear,Interstate,0,1,32.80,-96.79
+TX2022-327,2022-07-14,16:10,Austin,Travis,1,Clear,Highway,0,0,30.25,-97.75
+TX2022-328,2022-07-15,07:18,Houston,Harris,1,Clear,State Highway,0,0,29.74,-95.44
+TX2022-329,2022-07-15,18:05,Laredo,Webb,1,Clear,Local Street,0,0,27.52,-99.50
+TX2022-330,2022-07-16,13:45,McKinney,Collin,1,Clear,Highway,0,0,33.18,-96.63
+TX2022-331,2022-07-17,08:28,Houston,Harris,1,,Interstate,0,0,29.86,-95.26
+TX2022-332,2022-07-17,17:30,San Antonio,Bexar,1,Rain,Local Street,0,0,29.39,-98.54
+TX2022-333,2022-07-18,07:42,Fort Worth,Tarrant,3,Clear,Highway,0,2,32.77,-97.33
+TX2022-334,2022-07-18,16:22,Houston,Harris,1,Clear,Local Street,0,0,29.71,-95.39
+TX2022-335,2022-07-19,08:05,Dallas,Dallas,1,Clear,Interstate,0,0,32.83,-96.75
+TX2022-336,2022-07-19,17:48,Houston,Harris,1,Cloudy,State Highway,0,0,29.80,-95.33
+TX2022-337,2022-07-20,07:55,Austin,Travis,2,Clear,Local Street,0,1,30.31,-97.70
+TX2022-338,2022-07-20,16:35,Arlington,Tarrant,1,Clear,Highway,0,0,32.75,-97.11
+TX2022-339,2022-07-21,08:42,Houston,Harris,1,Clear,Interstate,0,0,29.68,-95.45
+TX2022-340,2022-07-22,18:15,San Antonio,Bexar,1,Clear,County Road,0,0,29.46,-98.48
+TX2022-341,2022-07-22,07:08,Houston,Harris,4,Rain,Highway,1,3,29.63,-95.51
+TX2022-342,2022-07-23,17:05,Dallas,Dallas,1,,Local Street,0,0,32.79,-96.84
+TX2022-343,2022-07-24,08:32,Houston,Harris,1,Clear,State Highway,0,0,29.83,-95.29
+TX2022-344,2022-07-24,16:50,Fort Worth,Tarrant,1,Clear,Interstate,0,0,32.78,-97.30
+TX2022-345,2022-07-25,07:22,San Antonio,Bexar,1,Clear,Highway,0,0,29.45,-98.51
+TX2022-346,2022-07-25,17:35,Houston,Harris,2,Rain,Local Street,0,1,29.75,-95.42
+TX2022-347,2022-07-26,09:15,Lubbock,Lubbock,1,Clear,State Highway,0,0,33.61,-101.81
+TX2022-348,2022-07-26,16:05,Dallas,Dallas,1,Clear,Highway,0,0,32.85,-96.72
+TX2022-349,2022-07-27,08:18,Houston,Harris,1,Clear,Local Street,0,0,29.77,-95.37
+TX2022-350,2022-07-28,07:48,Austin,Travis,1,Clear,Interstate,0,0,30.28,-97.74
+TX2022-351,2022-08-01,17:22,Houston,Harris,1,Clear,Highway,0,0,29.84,-95.28
+TX2022-352,2022-08-01,08:35,Dallas,Dallas,1,Clear,Local Street,0,0,32.82,-96.78
+TX2022-353,2022-08-02,07:12,Houston,Harris,2,Cloudy,Interstate,0,1,29.70,-95.40
+TX2022-354,2022-08-02,16:45,San Antonio,Bexar,1,,State Highway,0,0,29.44,-98.49
+TX2022-355,2022-08-03,08:55,Fort Worth,Tarrant,1,Clear,Highway,0,0,32.73,-97.38
+TX2022-356,2022-08-03,17:38,Houston,Harris,1,Clear,Local Street,0,0,29.66,-95.48
+TX2022-357,2022-08-04,07:28,Dallas,Dallas,3,Rain,Interstate,0,2,32.80,-96.77
+TX2022-358,2022-08-04,16:18,Houston,Harris,1,Clear,County Road,0,0,29.81,-95.32
+TX2022-359,2022-08-05,18:50,Corpus Christi,Nueces,1,Clear,Local Street,0,0,27.83,-97.37
+TX2022-360,2022-08-05,08:08,Austin,Travis,1,Clear,State Highway,0,0,30.29,-97.72
+TX2022-361,2022-08-06,07:42,Houston,Harris,1,Clear,Interstate,0,0,29.78,-95.35
+TX2022-362,2022-08-06,17:15,San Antonio,Bexar,2,Clear,Highway,0,1,29.42,-98.52
+TX2022-363,2022-08-07,16:32,Houston,Harris,1,Rain,Local Street,0,0,29.73,-95.43
+TX2022-364,2022-08-07,08:22,Arlington,Tarrant,1,Clear,Interstate,0,0,32.71,-97.12
+TX2022-365,2022-08-08,07:55,Dallas,Dallas,1,,State Highway,0,0,32.77,-96.83
+TX2022-366,2022-08-08,17:48,Houston,Harris,1,Clear,Highway,0,0,29.85,-95.27
+TX2022-367,2022-08-09,08:38,Fort Worth,Tarrant,1,Cloudy,Local Street,0,0,32.76,-97.34
+TX2022-368,2022-08-09,16:05,Houston,Harris,2,Clear,Interstate,0,2,29.69,-95.46
+TX2022-369,2022-08-10,07:18,San Antonio,Bexar,1,Clear,County Road,0,0,29.40,-98.56
+TX2022-370,2022-08-10,18:25,Dallas,Dallas,1,Clear,Highway,0,0,32.84,-96.73
+TX2022-371,2022-08-11,08:45,Houston,Harris,1,Clear,State Highway,0,0,29.79,-95.38
+TX2022-372,2022-08-11,17:05,El Paso,El Paso,1,Clear,Interstate,0,0,31.79,-106.41
+TX2022-373,2022-08-12,07:35,Austin,Travis,1,,Local Street,0,0,30.24,-97.78
+TX2022-374,2022-08-12,16:55,Houston,Harris,3,Rain,Highway,0,3,29.67,-95.47
+TX2022-375,2022-08-13,09:30,Irving,Dallas,1,Clear,Local Street,0,0,32.82,-96.93
+TX2022-376,2022-08-13,14:20,Laredo,Webb,2,Clear,State Highway,0,1,27.50,-99.53
+TX2022-377,2022-08-14,08:12,Houston,Harris,1,Clear,Interstate,0,0,29.82,-95.31
+TX2022-378,2022-08-14,17:32,Dallas,Dallas,1,Clear,Local Street,0,0,32.81,-96.79
+TX2022-379,2022-08-15,07:48,San Antonio,Bexar,1,Clear,Highway,0,0,29.47,-98.47
+TX2022-380,2022-08-15,16:42,Houston,Harris,1,Cloudy,State Highway,0,0,29.74,-95.41
+TX2022-381,2022-08-16,08:28,Fort Worth,Tarrant,2,Clear,Interstate,0,1,32.79,-97.29
+TX2022-382,2022-08-16,18:10,Garland,Dallas,1,,Highway,0,0,32.90,-96.65
+TX2022-383,2022-08-17,07:15,Houston,Harris,1,Clear,Local Street,0,0,29.76,-95.36
+TX2022-384,2022-08-17,16:25,Dallas,Dallas,1,Clear,County Road,0,0,32.78,-96.85
+TX2022-385,2022-08-18,17:50,Houston,Harris,1,Clear,Interstate,0,0,29.88,-95.24
+TX2022-386,2022-08-18,08:55,Austin,Travis,1,Rain,Highway,0,0,30.27,-97.74
+TX2022-387,2022-08-19,07:38,Houston,Harris,4,Fog,Interstate,2,5,29.65,-95.50
+TX2022-388,2022-08-19,16:15,San Antonio,Bexar,1,Clear,Local Street,0,0,29.43,-98.50
+TX2022-389,2022-08-20,08:05,Dallas,Dallas,1,Clear,State Highway,0,0,32.83,-96.74
+TX2022-390,2022-08-21,17:25,Houston,Harris,1,,Highway,0,0,29.71,-95.39
+TX2022-391,2022-08-22,07:52,Fort Worth,Tarrant,1,Clear,Local Street,0,0,32.74,-97.35
+TX2022-392,2022-08-22,16:38,Houston,Harris,2,Rain,Interstate,0,1,29.80,-95.33
+TX2022-393,2022-08-23,08:18,San Antonio,Bexar,1,Clear,Highway,0,0,29.41,-98.53
+TX2022-394,2022-08-23,17:45,Amarillo,Potter,1,Wind,State Highway,0,0,35.24,-101.81
+TX2022-395,2022-08-24,07:25,Houston,Harris,1,Clear,Local Street,0,0,29.83,-95.30
+TX2022-396,2022-08-24,16:52,Dallas,Dallas,1,Cloudy,Interstate,0,0,32.79,-96.81
+TX2022-397,2022-08-25,18:30,Houston,Harris,1,Clear,County Road,0,0,29.68,-95.44
+TX2022-398,2022-08-26,08:42,Austin,Travis,3,Clear,Highway,0,2,30.32,-97.69
+TX2022-399,2022-08-27,07:05,Houston,Harris,1,Clear,State Highway,0,0,29.75,-95.42
+TX2022-400,2022-08-28,17:12,Dallas,Dallas,2,,Local Street,0,1,32.86,-96.71
+TX2022-401,2022-09-01,08:25,Houston,Harris,1,Clear,Interstate,0,0,29.79,-95.37
+TX2022-402,2022-09-01,16:35,San Antonio,Bexar,1,Clear,Highway,0,0,29.45,-98.48
+TX2022-403,2022-09-02,07:48,Dallas,Dallas,1,Rain,Local Street,0,0,32.80,-96.80
+TX2022-404,2022-09-02,17:55,Houston,Harris,2,Cloudy,Interstate,0,1,29.72,-95.41
+TX2022-405,2022-09-03,08:12,Fort Worth,Tarrant,1,Clear,State Highway,0,0,32.77,-97.31
+TX2022-406,2022-09-03,16:22,Austin,Travis,1,Clear,Local Street,0,0,30.25,-97.75
+TX2022-407,2022-09-04,18:40,Houston,Harris,1,,Highway,0,0,29.86,-95.26
+TX2022-408,2022-09-04,07:32,Arlington,Tarrant,1,Clear,Interstate,0,0,32.73,-97.14
+TX2022-409,2022-09-05,17:18,Houston,Harris,1,Clear,Local Street,0,0,29.81,-95.32
+TX2022-410,2022-09-05,08:48,San Antonio,Bexar,3,Rain,Highway,0,3,29.42,-98.51
+TX2022-411,2022-09-06,07:15,Dallas,Dallas,1,Clear,State Highway,0,0,32.82,-96.77
+TX2022-412,2022-09-06,16:50,Houston,Harris,1,Clear,Interstate,0,0,29.67,-95.46
+TX2022-413,2022-09-07,08:35,El Paso,El Paso,1,Clear,Local Street,0,0,31.76,-106.44
+TX2022-414,2022-09-07,17:35,Houston,Harris,2,Clear,Highway,0,1,29.74,-95.43
+TX2022-415,2022-09-08,07:42,Fort Worth,Tarrant,1,Cloudy,Interstate,0,0,32.76,-97.33
+TX2022-416,2022-09-08,16:08,Dallas,Dallas,1,,Local Street,0,0,32.78,-96.83
+TX2022-417,2022-09-09,08:18,Houston,Harris,1,Clear,County Road,0,0,29.83,-95.29
+TX2022-418,2022-09-09,18:22,San Antonio,Bexar,1,Clear,State Highway,0,0,29.46,-98.46
+TX2022-419,2022-09-10,07:55,Austin,Travis,1,Clear,Highway,0,0,30.33,-97.67
+TX2022-420,2022-09-10,17:42,Houston,Harris,1,Rain,Local Street,0,0,29.70,-95.39
+TX2022-421,2022-09-11,08:05,Dallas,Dallas,2,Clear,Interstate,0,2,32.81,-96.78
+TX2022-422,2022-09-11,16:28,Houston,Harris,1,Clear,State Highway,0,0,29.78,-95.35
+TX2022-423,2022-09-12,07:28,Fort Worth,Tarrant,1,Clear,Local Street,0,0,32.75,-97.36
+TX2022-424,2022-09-12,15:40,Corpus Christi,Nueces,1,Clear,Highway,0,0,27.79,-97.41
+TX2022-425,2022-09-13,17:08,Houston,Harris,4,Rain,Interstate,1,4,29.66,-95.48
+TX2022-426,2022-09-13,08:42,San Antonio,Bexar,1,,Local Street,0,0,29.40,-98.55
+TX2022-427,2022-09-14,07:18,Houston,Harris,1,Clear,Highway,0,0,29.85,-95.27
+TX2022-428,2022-09-14,16:55,Dallas,Dallas,1,Clear,Interstate,0,0,32.84,-96.74
+TX2022-429,2022-09-15,18:15,Garland,Dallas,1,Cloudy,State Highway,0,0,32.91,-96.64
+TX2022-430,2022-09-15,08:28,Houston,Harris,1,Clear,Local Street,0,0,29.73,-95.44
+TX2022-431,2022-09-16,07:45,Austin,Travis,2,Clear,Highway,0,1,30.26,-97.73
+TX2022-432,2022-09-16,17:25,Houston,Harris,1,Clear,Interstate,0,0,29.80,-95.36
+TX2022-433,2022-09-17,08:55,Frisco,Collin,1,Clear,Local Street,0,0,33.15,-96.83
+TX2022-434,2022-09-18,16:42,San Antonio,Bexar,1,Clear,County Road,0,0,29.44,-98.49
+TX2022-435,2022-09-18,07:35,Houston,Harris,1,,State Highway,0,0,29.77,-95.38
+TX2022-436,2022-09-19,17:50,Dallas,Dallas,3,Clear,Local Street,0,2,32.79,-96.82
+TX2022-437,2022-09-19,08:12,Fort Worth,Tarrant,1,Clear,Highway,0,0,32.78,-97.30
+TX2022-438,2022-09-20,16:18,Houston,Harris,1,Clear,Interstate,0,0,29.69,-95.45
+TX2022-439,2022-09-20,07:52,Arlington,Tarrant,2,Rain,Local Street,0,1,32.72,-97.11
+TX2022-440,2022-09-21,18:30,Houston,Harris,1,Clear,State Highway,0,0,29.82,-95.31
+TX2022-441,2022-09-22,08:38,San Antonio,Bexar,1,Clear,Highway,0,0,29.43,-98.50
+TX2022-442,2022-09-22,07:08,Dallas,Dallas,1,Cloudy,Interstate,0,0,32.80,-96.80
+TX2022-443,2022-09-23,17:15,Houston,Harris,1,Clear,Local Street,0,0,29.76,-95.40
+TX2022-444,2022-09-24,16:35,Lubbock,Lubbock,1,Wind,Highway,0,0,33.57,-101.87
+TX2022-445,2022-09-25,08:22,Houston,Harris,2,Clear,Interstate,0,1,29.84,-95.28
+TX2022-446,2022-09-25,17:42,Fort Worth,Tarrant,1,,County Road,0,0,32.73,-97.37
+TX2022-447,2022-09-26,07:38,Austin,Travis,1,Clear,State Highway,0,0,30.30,-97.71
+TX2022-448,2022-09-27,16:05,Houston,Harris,1,Clear,Local Street,0,0,29.71,-95.42
+TX2022-449,2022-09-28,08:45,Dallas,Dallas,1,Clear,Highway,0,0,32.83,-96.76
+TX2022-450,2022-09-29,17:30,Houston,Harris,1,Rain,Interstate,0,0,29.68,-95.46
+TX2022-451,2022-10-01,07:28,San Antonio,Bexar,1,Clear,Local Street,0,0,29.47,-98.47
+TX2022-452,2022-10-01,16:48,Houston,Harris,2,Cloudy,Highway,0,1,29.79,-95.34
+TX2022-453,2022-10-02,08:15,Dallas,Dallas,1,Clear,Interstate,0,0,32.81,-96.79
+TX2022-454,2022-10-02,17:55,Austin,Travis,1,Clear,State Highway,0,0,30.27,-97.74
+TX2022-455,2022-10-03,07:42,Houston,Harris,1,,Local Street,0,0,29.82,-95.30
+TX2022-456,2022-10-03,16:25,Fort Worth,Tarrant,3,Rain,Highway,0,2,32.74,-97.34
+TX2022-457,2022-10-04,18:35,El Paso,El Paso,1,Clear,Interstate,0,0,31.80,-106.40
+TX2022-458,2022-10-04,08:32,Houston,Harris,1,Clear,County Road,0,0,29.75,-95.43
+TX2022-459,2022-10-05,07:15,San Antonio,Bexar,1,Clear,State Highway,0,0,29.41,-98.54
+TX2022-460,2022-10-05,17:12,Dallas,Dallas,2,Clear,Local Street,0,1,32.85,-96.73
+TX2022-461,2022-10-06,08:48,Houston,Harris,1,Fog,Interstate,0,0,29.67,-95.47
+TX2022-462,2022-10-06,16:42,Laredo,Webb,1,Clear,Highway,0,0,27.53,-99.48
+TX2022-463,2022-10-07,07:55,Fort Worth,Tarrant,1,Clear,Local Street,0,0,32.77,-97.32
+TX2022-464,2022-10-07,17:38,Houston,Harris,1,Clear,State Highway,0,0,29.86,-95.25
+TX2022-465,2022-10-08,08:05,Dallas,Dallas,1,Clear,Highway,0,0,32.78,-96.82
+TX2022-466,2022-10-08,16:15,Houston,Harris,1,,Interstate,0,0,29.73,-95.44
+TX2022-467,2022-10-09,09:25,Corpus Christi,Nueces,1,Clear,Local Street,0,0,27.80,-97.40
+TX2022-468,2022-10-10,17:52,San Antonio,Bexar,1,Rain,County Road,0,0,29.38,-98.56
+TX2022-469,2022-10-10,07:32,Houston,Harris,2,Cloudy,Highway,0,2,29.80,-95.37
+TX2022-470,2022-10-11,16:08,Arlington,Tarrant,1,Clear,Interstate,0,0,32.75,-97.10
+TX2022-471,2022-10-11,08:18,Austin,Travis,1,Clear,State Highway,0,0,30.31,-97.70
+TX2022-472,2022-10-12,18:20,Houston,Harris,1,Clear,Local Street,0,0,29.84,-95.29
+TX2022-473,2022-10-12,07:48,Dallas,Dallas,1,Clear,Highway,0,0,32.82,-96.77
+TX2022-474,2022-10-13,17:05,Houston,Harris,3,Rain,Interstate,0,3,29.69,-95.45
+TX2022-475,2022-10-13,08:35,Fort Worth,Tarrant,1,,Local Street,0,0,32.76,-97.33
+TX2022-476,2022-10-14,07:22,San Antonio,Bexar,1,Clear,State Highway,0,0,29.45,-98.48
+TX2022-477,2022-10-14,16:55,Houston,Harris,1,Clear,Highway,0,0,29.78,-95.35
+TX2022-478,2022-10-15,08:42,McKinney,Collin,2,Clear,Local Street,0,1,33.20,-96.62
+TX2022-479,2022-10-16,17:28,Dallas,Dallas,1,Cloudy,Interstate,0,0,32.80,-96.81
+TX2022-480,2022-10-16,07:05,Houston,Harris,1,Clear,County Road,0,0,29.72,-95.41
+TX2022-481,2022-10-17,16:38,Austin,Travis,1,Clear,Highway,0,0,30.28,-97.76
+TX2022-482,2022-10-18,08:12,Houston,Harris,4,Fog,Interstate,1,4,29.64,-95.50
+TX2022-483,2022-10-18,18:45,San Antonio,Bexar,1,Clear,Local Street,0,0,29.42,-98.52
+TX2022-484,2022-10-19,07:38,Fort Worth,Tarrant,1,Clear,State Highway,0,0,32.79,-97.29
+TX2022-485,2022-10-19,17:15,Houston,Harris,1,,Highway,0,0,29.81,-95.32
+TX2022-486,2022-10-20,08:28,Dallas,Dallas,2,Rain,Local Street,0,1,32.84,-96.74
+TX2022-487,2022-10-21,16:22,Houston,Harris,1,Clear,Interstate,0,0,29.77,-95.38
+TX2022-488,2022-10-22,07:52,Irving,Dallas,1,Clear,Highway,0,0,32.81,-96.96
+TX2022-489,2022-10-22,17:42,Houston,Harris,1,Clear,State Highway,0,0,29.70,-95.39
+TX2022-490,2022-10-23,08:08,San Antonio,Bexar,1,Clear,Local Street,0,0,29.46,-98.47
+TX2022-491,2022-10-24,16:50,Houston,Harris,2,Cloudy,Interstate,0,1,29.83,-95.28
+TX2022-492,2022-10-25,07:18,Amarillo,Potter,1,Wind,State Highway,0,0,35.21,-101.84
+TX2022-493,2022-10-25,17:32,Dallas,Dallas,1,Clear,Highway,0,0,32.79,-96.80
+TX2022-494,2022-10-26,08:45,Houston,Harris,1,Clear,Local Street,0,0,29.85,-95.26
+TX2022-495,2022-10-27,16:12,Fort Worth,Tarrant,3,,Interstate,0,2,32.75,-97.35
+TX2022-496,2022-10-28,07:35,Austin,Travis,1,Clear,County Road,0,0,30.29,-97.72
+TX2022-497,2022-10-29,18:25,Houston,Harris,1,Clear,Highway,0,0,29.68,-95.46
+TX2022-498,2022-10-30,08:22,San Antonio,Bexar,1,Clear,State Highway,0,0,29.40,-98.55
+TX2022-499,2022-10-31,17:48,Houston,Harris,1,Rain,Local Street,0,0,29.76,-95.40
+TX2022-500,2022-10-31,07:42,Dallas,Dallas,4,Fog,Interstate,2,5,32.78,-96.83

@@ -1,0 +1,51 @@
+id,name,title,department,gender,age,salary
+1,James Parker,Senior Engineer,Engineering,Male,34,118000
+2,Sarah Chen,Senior Engineer,Engineering,Female,32,110000
+3,Marcus Johnson,Software Engineer,Engineering,Male,26,95000
+4,Priya Patel,Software Engineer,Engineering,Female,28,88000
+5,Tyler Brooks,DevOps Engineer,Engineering,Male,33,108000
+6,Linda Nguyen,DevOps Engineer,Engineering,Female,37,99000
+7,Derek Williams,Software Engineer,Engineering,Male,24,85000
+8,Aisha Mohammed,,Engineering,Female,29,82000
+9,Robert Kim,Data Scientist,Engineering,Male,42,112000
+10,Jessica Rivera,Data Scientist,Engineering,Female,27,103000
+11,Brandon Lee,Software Engineer,Engineering,Male,30,92000
+12,Mei Zhang,Senior Engineer,Engineering,Non-binary,35,114000
+13,Rachel Green,Marketing Manager,Marketing,Female,38,78000
+14,David Okafor,Marketing Manager,Marketing,Male,41,84000
+15,Emma Thompson,Marketing Analyst,Marketing,Female,32,58000
+16,Chris Martinez,Marketing Analyst,Marketing,Male,29,63000
+17,Olivia Wilson,Content Strategist,Marketing,Female,25,55000
+18,Jason Taylor,,Marketing,Male,29,68000
+19,Sophia Hernandez,Brand Coordinator,Marketing,Female,24,48000
+20,Nathan Brooks,Content Strategist,Marketing,Male,33,60000
+21,Maya Rodriguez,Brand Coordinator,Marketing,Female,28,50000
+22,Alex Kim,Marketing Analyst,Marketing,Non-binary,30,61000
+23,Karen White,HR Manager,HR,Female,45,72000
+24,Michael Brown,HR Coordinator,HR,Male,28,52000
+25,Diana Reyes,HR Coordinator,HR,Female,31,48000
+26,Thomas Anderson,HR Manager,HR,Male,39,78000
+27,Grace Liu,Recruiter,HR,Female,34,46000
+28,Jordan Casey,Benefits Specialist,HR,Non-binary,26,50000
+29,Patricia Moore,Recruiter,HR,Female,29,44000
+30,Samuel Davis,,HR,Male,33,55000
+31,Catherine Lee,Financial Analyst,Finance,Female,27,64000
+32,Richard Clark,Senior Financial Analyst,Finance,Male,55,88000
+33,Angela Foster,Accountant,Finance,Female,33,57000
+34,William Grant,Financial Analyst,Finance,Male,29,69000
+35,Lisa Chang,Senior Financial Analyst,Finance,Female,38,82000
+36,Daniel Harris,Auditor,Finance,Male,31,72000
+37,Maria Santos,Accountant,Finance,Female,26,54000
+38,Eric Nelson,Auditor,Finance,Male,42,78000
+39,Yuki Tanaka,Financial Analyst,Finance,Female,30,63000
+40,Ryan Mitchell,Accountant,Finance,Male,36,62000
+41,Monica Adams,Sales Rep,Sales,Female,24,48000
+42,Jake Sullivan,Account Executive,Sales,Male,32,82000
+43,Destiny Washington,Sales Rep,Sales,Female,23,46000
+44,Brian Cooper,Sales Manager,Sales,Male,44,98000
+45,Alicia Martin,Account Executive,Sales,Female,29,76000
+46,Kevin Price,Sales Rep,Sales,Male,27,52000
+47,Samantha Reed,Sales Rep,Sales,Female,25,50000
+48,Omar Hassan,Account Executive,Sales,Male,35,84000
+49,Tiffany Barnes,Sales Manager,Sales,Female,40,90000
+50,Carlos Gutierrez,Sales Rep,Sales,Non-binary,22,45000

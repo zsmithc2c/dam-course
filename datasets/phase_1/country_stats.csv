@@ -1,0 +1,21 @@
+country,population_millions,gdp_billions,life_expectancy,literacy_rate,continent
+United States,331.9,25460,78.9,99,North America
+China,1412.0,17960,77.4,97,Asia
+India,1408.0,3390,70.8,74,Asia
+Germany,83.2,4070,81.3,99,Europe
+Brazil,214.3,1920,75.3,93,South America
+Japan,125.7,4230,84.6,99,Asia
+Nigeria,218.5,,54.7,62,Africa
+United Kingdom,67.5,3070,81.0,99,Europe
+France,67.8,2780,82.5,99,Europe
+South Korea,51.7,1670,83.7,98,Asia
+Mexico,128.9,1410,75.0,95,North America
+Australia,26.0,1680,83.2,99,Oceania
+Egypt,104.3,476,72.0,73,Africa
+Canada,38.9,2140,82.4,99,North America
+South Africa,59.4,405,64.9,87,Africa
+Argentina,45.8,630,76.5,99,South America
+Thailand,71.8,535,78.7,94,Asia
+Kenya,54.0,,62.1,82,Africa
+Sweden,10.4,586,83.0,99,Europe
+New Zealand,5.1,248,82.1,99,Oceania

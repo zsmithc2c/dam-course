@@ -1,0 +1,16 @@
+Data Analysis & Management: Lesson 6
+Structure
+Most tables have a primary key (usually the top column)
+Database has multiple tables, like customers, products, employees and orders
+The items listed in each table are the columns, it has multiple entries with each column (ex. One row in employee might be employeeID of 1283, John, Smith, 02/21/1985) 
+Pros/Cons
+Pros
+Simple
+Easy to navigate
+Good for organized/structured/related data
+Easy for collaboration
+Cons
+Hard to use for large/growing sources of data
+Requires a lot of effort to maintain/update
+Can take up a lot of space
+Can cost more money for businesses

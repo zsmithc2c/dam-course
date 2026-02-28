@@ -1,0 +1,26 @@
+patient_id,age,gender,blood_type,condition,hospital_visits,bill_amount
+P001,45,Male,O+,Hypertension,3,8500
+P002,67,Female,A+,Heart Disease,6,32000
+P003,34,Male,B+,Healthy,0,500
+P004,52,Female,O+,Diabetes,4,15200
+P005,28,Non-binary,AB+,Asthma,2,3800
+P006,71,Male,A-,Heart Disease,7,41000
+P007,39,Female,O+,Migraine,2,2400
+P008,55,Male,B-,Diabetes,5,18500
+P009,23,Female,O-,Healthy,1,750
+P010,61,Male,A+,Hypertension,4,12000
+P011,47,Female,O+,Arthritis,3,7200
+P012,19,Male,B+,Asthma,1,2100
+P013,73,Female,AB-,Heart Disease,8,45000
+P014,36,Male,O+,Healthy,0,600
+P015,58,Female,A+,Hypertension,3,9800
+P016,42,Non-binary,O+,Diabetes,4,14500
+P017,31,Male,B+,Migraine,1,1800
+P018,65,Female,O-,Arthritis,5,16000
+P019,25,Male,A+,Healthy,0,550
+P020,49,Female,AB+,Hypertension,3,10500
+P021,56,Male,O+,Diabetes,6,22000
+P022,38,Female,B-,Asthma,2,4200
+P023,75,Male,A-,Heart Disease,7,38000
+P024,29,Female,O+,Healthy,1,800
+P025,44,Male,O+,Arthritis,2,5500

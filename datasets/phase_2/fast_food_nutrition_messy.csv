@@ -1,0 +1,58 @@
+restaurant,item_name,calories,total_fat_g,saturated_fat_g,carbohydrates_g,sugars_g,protein_g,sodium_mg
+McDonald's,Big Mac,550,30,10,45,9,25,1010
+McDonald's,Big Mac,550,30,10,45,9,25,1010
+McDonalds,French Fries (Large),490,23,3,66,0,7,400
+MCDONALD'S,McChicken,400,17,3,40,5,14,560
+Mcdonald's,Quarter Pounder with Cheese,520,26,12,41,10,30,1100
+McDonald's,Egg McMuffin ,300,12,6,30,3,17,760
+McDonald's,,460,22,8,44,10,22,900
+McDonald's,Filet-O-Fish,390,19,4,38,5,17,590
+McDonald's,Hot Fudge Sundae,330,9,6,54,47,8,95
+Burger King,Whopper,660,40,12,49,11,28,980
+Burger King,Whopper,660,40,12,49,11,28,980
+burger king,French Fries (Medium),380,17,3,53,0,4,480
+BURGER KING,Chicken Sandwich,660,40,8,49,8,29,1530
+Burger King,Onion Rings (Medium),320,16,3,40,4,4,460
+Burger King,Double Whopper,900,58,19,49,11,48,1340
+Burger King,Vanilla Shake (Small),530,15,9,90,77,12,360
+Taco Bell,Crunchy Taco,170,9,3.5,13,1,8,310
+Taco Bell,Crunchy Taco,170,9,3.5,13,1,8,310
+Taco Bell,Bean Burrito,380,11,3,56,4,14,1000
+TACO BELL,Nachos BellGrande,760,39,7,83,5,19,N/A
+Taco Bell,Doritos Locos Taco,170,9,3.5,13,2,8,330
+Taco Bell,Cheesy Gordita Crunch,490,27,9,49,4,20,760
+Taco Bell,Mexican Pizza,540,31,8,46,3,20,1000
+Subway,6-inch Turkey Breast,280,3.5,1,46,7,18,760
+Subway,6-inch Turkey Breast,280,3.5,1,46,7,18,760
+SUBWAY,Footlong BLT,520,20,7,60,9,26,1690
+Subway,6-inch Veggie Delight,230,2.5,0.5,44,7,9,520
+subway,6-inch Spicy Italian,480,24,9,45,7,23,1520
+Subway,Footlong Meatball Marinara,500 cal,38,14,120,19,43,2130
+Wendy's,Dave's Single,570,34,13,26,7,34,1110
+Wendy's,Frosty (Small),340,8,5,57,47,9,150
+Wendy's,Spicy Chicken Sandwich,500,19,3.5,57,8,28,1130
+wendys,Baconator,-50,62,24,34,8,57,1830
+Wendy's,Pretzel Bacon Pub Burger,1170,72,27,67,17,61,1910
+Wendy's,Apple Pecan Salad (Full),550,,10,57,45,30,790
+Chick-fil-A,Original Chicken Sandwich,440,19,4,40,5,28,1350
+Chick-fil-A,Original Chicken Sandwich,440,19,4,40,5,28,1350
+Chick-fil-A,Waffle Fries (Medium),380,19,3.5,48,0,4,160
+CHICK-FIL-A,Grilled Nuggets (8-count),140,3.5,1,2,1,25,440
+Chick-fil-A,Cobb Salad,590,32,9,28,,43,1400
+Chick-fil-A,Frosted Lemonade (Small),330,6,3.5,64,62,6,170
+Domino's,Pepperoni Pizza (1 slice),210,8,3.5,26,3,9,490
+Domino's,Pepperoni Pizza (1 slice),210,8,3.5,26,3,9,490
+dominos,Cheese Pizza (1 slice),190,7,3,27,3,8,390
+Domino's,Buffalo Wings (2 pieces),190,12,3.5,5,0,15,840
+Domino's,Chocolate Lava Cake,350,15,8,48,24,4,340
+KFC,Original Recipe Chicken,320,17,4,11,0,34,680
+KFC,Original Recipe Chicken,320,17,4,11,0,34,680
+kfc,Cole Slaw,140,8,1.5,16,15,2,190
+KFC,Pot Pie,720,41,14,66,4,23,1640
+KFC, Mashed Potatoes with Gravy ,140,5,1,20,0,3,530
+Starbucks,Caramel Macchiato (Grande),250,7,4,37,34,10,150
+Starbucks,Caramel Macchiato (Grande),250,7,4,37,34,10,150
+STARBUCKS,Vanilla Latte (Grande),9999,6,3.5,38,37,13,170
+Starbucks,Frappuccino Caramel (Grande),370,15,10,53,52,5,280
+starbucks,Iced Coffee (Unsweetened),5,,0,0,0,1,10
+Starbucks,Spinach Feta Wrap,290,10,3.5,34,4,19,
